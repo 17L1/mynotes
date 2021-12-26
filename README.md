@@ -3,7 +3,7 @@
  * @Author: lilongguang
  * @Date: 2021-12-26 19:28:55
  * @LastEditors: lilongguang
- * @LastEditTime: 2021-12-26 19:30:53
+ * @LastEditTime: 2021-12-26 21:41:33
 -->
 # mynotes
 ## 背景
@@ -14,5 +14,8 @@ https://github.com/purocean/yn
 ```go
 func main () {
     fmt.Pritln("hello, world!")
+
+
+    
 }
 
