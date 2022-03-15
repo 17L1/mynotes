@@ -3,7 +3,7 @@
  * @Author: lilongguang
  * @Date: 2022-02-24 12:38:36
  * @LastEditors: lilongguang
- * @LastEditTime: 2022-03-03 13:10:23
+ * @LastEditTime: 2022-03-10 19:47:18
 -->
 
 [1]Yu, Lijia, Deepak Kumar Tanwar, Emanuel Diego S. Penha, Yuri I. Wolf, Eugene V. Koonin, and Malay Kumar Basu. 2019. ‘‘Grammar of Protein Domain Architectures.” Proceedings of the National Academy of Sciences 116 (9): 3636–45. 10.1073/pnas.1814684116.
@@ -96,3 +96,19 @@ Proceedings of the 2019 Conference of the North American Chapter of the Associat
 for Computational Linguistics: Human Language Technologies, Volume 1 (Long and
 Short Papers). Association for Computational Linguistics, Minneapolis, Minnesota,
 4171–4186
+
+[39]You Z-H, Zhu L, Zheng C-H, et al. Prediction of protein-protein interactions from amino acid sequences using a novel multi- scale continuous and discontinuous feature set. BMC Bioinfor- matics, 2014;15:S9. Springer.
+
+[40]Wong L, You Z-H, Li S, et al. Detection of protein–protein interac- tions from amino acid sequences using a rotation forest model with a novel PR-LPQ descriptor. In: International Conference on Intelligent Computing. Fuzhou, China: Springer, 2015, 713–20.
+
+[41]Yang L, Xia J-F, Gui J. Prediction of protein–protein interactions from protein sequence using local descriptors. Protein Pept Lett 2010;17(9):1085–90.
+
+[42]You Z-H, Lei Y-K, Zhu Lin, et al.. Prediction of protein–protein interactions from amino acid sequences with ensemble extreme learning machines and principal component analysis. BMC Bioin- formatics 2013;14:S10. Springer.
+
+[43]Xiuquan D, Sun S, Changlin H, et al. DeepPPI: boosting prediction of protein–protein interactions with deep neural networks. J Chem Inf Model 2017;57(6):1499–510.
+
+[44]Sun T, Zhou B, Lai L, et al. Sequence-based prediction of protein- protein interaction using a deep-learning algorithm. BMC Bioin- formatics 2017;18(1):1–8.
+
+[45]Li H, Gong X-J, Hua Y, et al. Deep neural network based predic- tions of protein interactions using primary sequences. Molecules 2018;23(8):1923.
+
+[46]DRKG
