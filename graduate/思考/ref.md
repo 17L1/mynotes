@@ -3,7 +3,7 @@
  * @Author: lilongguang
  * @Date: 2022-02-24 12:38:36
  * @LastEditors: lilongguang
- * @LastEditTime: 2022-03-10 19:47:18
+ * @LastEditTime: 2022-03-25 18:37:34
 -->
 
 [1]Yu, Lijia, Deepak Kumar Tanwar, Emanuel Diego S. Penha, Yuri I. Wolf, Eugene V. Koonin, and Malay Kumar Basu. 2019. ‘‘Grammar of Protein Domain Architectures.” Proceedings of the National Academy of Sciences 116 (9): 3636–45. 10.1073/pnas.1814684116.
@@ -111,4 +111,61 @@ Short Papers). Association for Computational Linguistics, Minneapolis, Minnesota
 
 [45]Li H, Gong X-J, Hua Y, et al. Deep neural network based predic- tions of protein interactions using primary sequences. Molecules 2018;23(8):1923.
 
-[46]DRKG
+[46]Ioannidis V N, Song X, Manchanda S, et al. Drkg-drug repurposing knowledge graph for covid-19[J]. arXiv preprint arXiv: 2010.09600, 2020.
+
+[47] Bordes A, Usunier N, Garcia-Duran A, et al. Translating embeddings for modeling multi-relational data. In:Advances in neural information processing systems.2013, 2787-2795.
+
+[48]Guo Y, Lezheng Y, Wen Z, et al. Using support vector machine combined with auto covariance to predict protein– protein interactions from protein sequences. Nucleic Acids Res 2008;36(9):3025–30.
+
+[49]You Z-H, Li J, Gao X, et al. Detecting protein-protein interactions with a novel matrix-based protein sequence representation and support vector machines. Biomed Res Int 2015;2015:867516.
+
+[50]You Z-H, Jian-Zhong Y, Zhu L, et al. A mapreduce based paral- lel svm for large-scale predicting protein–protein interactions. Neurocomputing 2014;145:37–43.
+
+[51]Huang Y-A, You Z-H, Gao X, et al. Using weighted sparse repre- sentation model combined with discrete cosine transformation to predict protein–protein interactions from protein sequence. Biomed Res Int 2015;2015:902198.
+
+[52]Wong L, You Z-H, Li S, et al. Detection of protein–protein interac- tions from amino acid sequences using a rotation forest model with a novel PR-LPQ descriptor. In: International Conference on Intelligent Computing. Fuzhou, China: Springer, 2015, 713–20.
+
+[53]Xiuquan D, Sun S, Changlin H, et al. DeepPPI: boosting prediction of protein–protein interactions with deep neural networks. J Chem Inf Model 2017;57(6):1499–510.
+
+[54]You Z-H, Lei Y-K, Zhu Lin, et al.. Prediction of protein–protein interactions from amino acid sequences with ensemble extreme learning machines and principal component analysis. BMC Bioin- formatics 2013;14:S10. Springer.
+
+[55]Chen H, Li F, Wang L, et al. Systematic evaluation of machine learning methods for identifying human–pathogen protein– protein interactions. Brief Bioinform 2021;22(3):bbaa068.
+
+[56]Laura Restrepo-Pérez, Chirlmin Joo, and Cees Dekker. 2018. Paving the way to
+single-molecule protein sequencing. Nature nanotechnology 13, 9 (2018), 786–796.
+
+[57]The UniProt Consortium. 2018. UniProt: a worldwide hub of protein knowledge.
+Nucleic Acids Research 47, D1 (11 2018), D506–D515.
+
+[58]Hashemifar S, Neyshabur B, Khan AA, et al. Predicting protein–
+protein interactions through sequence-based deep learning.
+Bioinformatics 2018;34(17):i802–10.
+
+[59]Zagoruyko S, Komodakis N. Learning to compare image patches via convolutional neural networks[J]. computer vision and pattern recognition, 2015: 4353-4361.
+
+[60]Li H, Gong X-J, Hua Y, et al. Deep neural network based predic-
+tions of protein interactions using primary sequences. Molecules
+2018;23(8):1923.
+
+[61]Chen M, Ju CJ-T, Zhou G, et al. Multifaceted protein–protein
+interaction prediction based on siamese residual RCNN. Bioin-
+formatics 2019;35(14):i305–14.
+
+[62]Singh R, Park D, Xu J, et al. Struct2net: a web service to predict
+protein–protein interactions using a structure-based approach.
+Nucleic Acids Res 2010;38(suppl_2):W508–15.
+
+[63]Qiangfeng Cliff Zhang, Donald Petrey, Lei Deng, Li Qiang,
+Yu Shi, Chan Aye Thu, Brygida Bisikirska, Celine Lefebvre,
+Domenico Accili, Tony Hunter, et al. Structure-based pre-
+diction of protein–protein interactions on a genome-wide
+scale. Nature, 490(7421):556–560, 2012.
+
+[64]Mirabello C, Wallner B. InterPred: a pipeline to identify and
+model protein–protein interactions. Proteins 2017;85(6):1159–70.
+
+[65]Zhao C, Zang Y, Quan W, et al. Hiv1-human protein-protein
+interaction prediction based on interface architecture sim-
+ilarity. In: 2017 IEEE International Conference on Bioinformatics
+and Biomedicine (BIBM), pp. 97–100. IEEE, 2017.
+
