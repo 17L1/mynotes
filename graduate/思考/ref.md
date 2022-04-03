@@ -3,7 +3,7 @@
  * @Author: lilongguang
  * @Date: 2022-02-24 12:38:36
  * @LastEditors: lilongguang
- * @LastEditTime: 2022-03-25 18:37:34
+ * @LastEditTime: 2022-04-03 14:21:28
 -->
 
 [1]Yu, Lijia, Deepak Kumar Tanwar, Emanuel Diego S. Penha, Yuri I. Wolf, Eugene V. Koonin, and Malay Kumar Basu. 2019. ‘‘Grammar of Protein Domain Architectures.” Proceedings of the National Academy of Sciences 116 (9): 3636–45. 10.1073/pnas.1814684116.
@@ -51,7 +51,7 @@
 [22]Choromanski, Krzysztof, Valerii Likhosherstov, David Dohan, Xingyou Song,
 Andreea Gane, Tamas Sarlos, Peter Hawkins, et al. 2020. ‘‘Rethinking Attention with Performers.” ArXiv:2009.14794 [Cs, Stat], September. http:// arxiv.org/abs/2009.14794.
 
-[23]OntoProtein蛋白质知识图谱
+[23]Zhang N, Bi Z, Liang X, et al. OntoProtein: Protein Pretraining With Gene Ontology Embedding[J]. arXiv preprint arXiv:2201.11147, 2022.
 
 [24]逻辑回归算法参考论文(吴雪81)
 
@@ -147,8 +147,8 @@ Bioinformatics 2018;34(17):i802–10.
 tions of protein interactions using primary sequences. Molecules
 2018;23(8):1923.
 
-[61]Chen M, Ju CJ-T, Zhou G, et al. Multifaceted protein–protein
-interaction prediction based on siamese residual RCNN. Bioin-
+[61]Chen M, Ju CJ-T, Zhou G, et al. . Multifaceted protein–protein
+interaction prediction based on siamese residual RCNNBioin-
 formatics 2019;35(14):i305–14.
 
 [62]Singh R, Park D, Xu J, et al. Struct2net: a web service to predict
@@ -169,3 +169,25 @@ interaction prediction based on interface architecture sim-
 ilarity. In: 2017 IEEE International Conference on Bioinformatics
 and Biomedicine (BIBM), pp. 97–100. IEEE, 2017.
 
+[66]Planas-Iglesias J, Bonet J, García-García J. Manuel A Marín-
+López, Elisenda Feliu, and Baldo Oliva. Understanding pro-
+tein–protein interactions using local structural features. J
+Mol Biol 2013; 425(7): 1210–24.
+
+[67]Zheng S, Rao J, Song Y, Zhang J, Xiao X, Fang EF, Yang Y, Niu Z. PharmKG: a dedicated knowledge graph benchmark for bomedical data mining. Brief Bioinform. 2021 Jul 20;22(4):bbaa344. doi: 10.1093/bib/bbaa344. PMID: 33341877.
+
+[68]Percha B and Altman R B. A global network of biomedical relationships derived from text[J]. Bioinformatics, 2018, 34(15): 2614-2624
+
+[69]Himmelstein D S and Baranzini S E. Heterogeneous network edge prediction: a data integration approach to prioritize disease-associated genes[J]. PLoS computational biology, 2015, 11(7): e1004259.
+
+[70]Bordes A, Weston J, Collobert R, et al. Learning structured embeddings of knowledge bases[C]//Twenty-fifth AAAI conference on artificial intelligence. 2011.
+
+[71]Wang Z, Zhang J, Feng J, et al. Knowledge graph embedding by translating on hyperplanes[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2014, 28(1).
+
+[72]Trouillon T, Welbl J, Riedel S, et al. Complex embeddings for simple link prediction. International Conference on Machine Learning (ICML),2016.
+
+[73]Qian W, Fu C, Zhu Y, et al. Translating Embeddings for Knowledge Graph Completion with Relation Attention Mechanism[C]//IJCAI. 2018: 4286-4292.
+
+[74]Santos, A., Colaço, A.R., Nielsen, A.B. et al. A knowledge graph to interpret clinical proteomics data. Nat Biotechnol (2022).
+
+[75]Binder, J., Ursu, O., Bologa, C. et al. Machine learning prediction and tau-based screening identifies potential Alzheimer’s disease genes relevant to immunity. Commun Biol 5, 125 (2022).
